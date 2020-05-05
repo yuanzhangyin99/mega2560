@@ -3,10 +3,14 @@
 # Eryone Thinker V2 Beta Version Firmware
 ###  (Based on Marlin2.0.x)
 ## Support 3D printer
-- Eryone Thinker S(with thinker V2 board)
-- Eryone Thinker SE
+#### Acer 宏碁
 
-## *[Stable Firmware](https://github.com/Eryone/mega2560)*
+| 3D Printer Model | Motherboard | Stepper Driver |
+| ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------- |
+| Eryone Thinker S   | Thinker V2 Board |  TMC2208    |
+
+- *[Stable Firmware](https://github.com/Eryone/mega2560)* This is the offical firmware, not have much feature but stable.
+- *[Marlin offical](https://github.com/MarlinFirmware/Marlin)*
 
 
 - Marlin_Atmel2560 based on Marlin2.0.x
