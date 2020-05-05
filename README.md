@@ -21,7 +21,7 @@
 
 - *[Stable Firmware](https://github.com/Eryone/mega2560)* This is the offical firmware, not have much feature but stable.
 - *[Marlin offical](https://github.com/MarlinFirmware/Marlin)* Marlin offical firmware release main page
-- *[Marlin Gcode](https://marlinfw.org/meta/gcode/)*
+- *[Marlin Gcode](https://marlinfw.org/meta/gcode/)* Marlin offical gcode introduction
 
 
 ## Join our group& Contact us
