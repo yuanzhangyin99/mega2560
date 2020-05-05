@@ -2,8 +2,8 @@
 
 # Eryone Thinker V2 Firmware-Beta 
 - Author: 
-  - **Tom Yuan** [link](https://github.com/yuanzhangyin99)
-  - **Eryone** [link](https://github.com/Eryone)
+  - **Tom Yuan**
+  - **Eryone** 
 ###  (Based on Marlin2.0.x)
 
 ## Support 3D printer
