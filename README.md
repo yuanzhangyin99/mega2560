@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/hackaday3D/marlin_Atmel2560/master/drivers/eryone.png)
 
 # Eryone Thinker V2 Firmware-Beta 
+###  (Based on Marlin2.0.x)
 - Author: 
   - **Tom Yuan**
   - **Eryone** 
-###  (Based on Marlin2.0.x)
 
 ## Support 3D printer
 
