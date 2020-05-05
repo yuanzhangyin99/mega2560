@@ -6,7 +6,10 @@
 - Eryone Thinker S(with thinker V2 board)
 - Eryone Thinker SE
 
-- Marlin_Atmel2560 based on Marlin 1.1.9
+## *[Stable Firmware](https://github.com/Eryone/mega2560)*
+
+
+- Marlin_Atmel2560 based on Marlin2.0.x
 
 - TMC2208 module is based on watterott/SilentStepStick
   https://github.com/watterott/SilentStepStick
