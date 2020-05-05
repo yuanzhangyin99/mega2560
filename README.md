@@ -7,7 +7,10 @@
 
 | 3D Printer Model    | Motherboard                | Stepper Driver    
 | ------------------- | -------------------------- | --------------
-| Eryone Thinker S    | Thinker V2 Motherboard     | TMC2208               
+| Eryone Thinker S    | Thinker V2 Motherboard     | TMC2208
+| Eryone Thinker S    | Thinker V2 Motherboard     | TMC2209
+| Eryone Thinker SE   | Thinker V2 Motherboard     | TMC2208
+| Eryone Thinker SE   | Thinker V2 Motherboard     | TMC2209               
 
 - *[Stable Firmware](https://github.com/Eryone/mega2560)* This is the offical firmware, not have much feature but stable.
 - *[Marlin offical](https://github.com/MarlinFirmware/Marlin)*
